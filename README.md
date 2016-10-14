@@ -9,7 +9,7 @@ Maybe there will be a Docker container for this some day, but until then here's
 what you will need to do (or approximate) to run it:
 
 ```
-sudo apt-get install redis-server
+sudo apt-get install redis-server python-pip git
 git clone https://github.com/umd-mith/tweet-analysis
 cd tweet-analysis
 pip install -r requirements.txt 
