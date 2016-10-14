@@ -1,3 +1,5 @@
+# tweet-analysis
+
 This repository contains some code for generating a simple [report] of the
 number of tweets per day and popular users, hashtags, media files, urls and
 retweets.  It uses a dataset of line oriented twitter data as input. It uses
@@ -20,4 +22,3 @@ cp /path/to/my/tweets.json data/
 [report]: https://github.com/edsu/ferguson-analysis/blob/master/report.md
 [Redis]: http://redis.io
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
-[Maryland Institute for Technology in the Humanities]: http://mith.umd.edu
